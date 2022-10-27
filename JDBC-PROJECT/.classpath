@@ -7,5 +7,10 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="lib" path="C:/oraclexe/app/oracle/product/11.2.0/server/jdbc/lib/ojdbc6.jar"/>
+	<classpathentry kind="lib" path="E:/JDBC-JAR/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="E:/JDBC-JAR/Excel_JDBC30.jar"/>
+	<classpathentry kind="lib" path="E:/JDBC-JAR/mysql-connector-java-8.0.30.jar"/>
+	<classpathentry kind="lib" path="E:/JDBC-JAR/ojdbc8-21.6.0.0.1.jar"/>
+	<classpathentry kind="lib" path="E:/JDBC-JAR/Text_JDBC30.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
